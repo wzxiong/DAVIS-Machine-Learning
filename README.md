@@ -30,9 +30,12 @@ We will focus on principles of statistical machine learning in the prediction pr
 
 <h2>Homeworks</h2>
 
-- Homework 1: <a href="homeworks/HW1.ipynb">assignment</a> and <a href="homeworks/HW1-soln.ipynb">solutions</a>
-- Homework 2: <a href="homeworks/HW2.ipynb">assignment</a> and <a href="homeworks/HW2-soln.ipynb">solutions</a>
-- Homework 3: <a href="homeworks/HW3.ipynb">assignment</a>
+- Homework 1: <a href="homeworks/HW1-soln.ipynb">solutions</a>
+- Homework 2: <a href="homeworks/HW2-soln.ipynb">solutions</a>
+- Homework 3: <a href="homeworks/HW3.ipynb">solutions</a>
+- Homework 4: <a href="homeworks/HW4.ipynb">solutions</a>
+- Homework 5: <a href="homeworks/HW5.ipynb">solutions</a>
+
 
 <h2>Syllabus</h2>
 
