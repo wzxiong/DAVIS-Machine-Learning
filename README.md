@@ -22,7 +22,7 @@ We will focus on principles of statistical machine learning in the prediction pr
 - Chunzhe: Monday 1-3pm in MSB 1117
 - Huang: Friday 1-3pm in MSB 1117
 
-P<h2>Textbooks</h2>
+<h2>Textbooks</h2>
 
 - Required: <a href="https://statweb.stanford.edu/~tibs/ElemStatLearn/">Elements of Statistical Learning</a> by Hastie, Tibshirani, and Friedman
 - Recommended: <a href="http://www.springer.com/us/book/9783319307152">Python for Probability, Statistics, and Machine Learning</a> by Unpingco
@@ -39,7 +39,8 @@ Analysis loss function of different large margin classification, compare logisti
 - Homework 4: <a href="homeworks/HW4.ipynb">solutions</a>
 Analysis different cross validation methods, perform tree base methods
 - Homework 5: <a href="homeworks/HW5.ipynb">solutions</a>
-erform random forest, SVM, Adaboost and Neuro Network
+Perform random forest, SVM, Adaboost and Neuro Network
+- Project: Kaggle competition Zillow’s Home Value Prediction (Zestimate)<a href="208-final-project-xll/Code/final 2.1.ipynb ">link</a>
 
 <h2>Syllabus</h2>
 
