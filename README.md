@@ -22,7 +22,7 @@ We will focus on principles of statistical machine learning in the prediction pr
 - Chunzhe: Monday 1-3pm in MSB 1117
 - Huang: Friday 1-3pm in MSB 1117
 
-<h2>Textbooks</h2>
+P<h2>Textbooks</h2>
 
 - Required: <a href="https://statweb.stanford.edu/~tibs/ElemStatLearn/">Elements of Statistical Learning</a> by Hastie, Tibshirani, and Friedman
 - Recommended: <a href="http://www.springer.com/us/book/9783319307152">Python for Probability, Statistics, and Machine Learning</a> by Unpingco
@@ -31,11 +31,15 @@ We will focus on principles of statistical machine learning in the prediction pr
 <h2>Homeworks</h2>
 
 - Homework 1: <a href="homeworks/HW1-soln.ipynb">solutions</a>
+Compare the leave-one-out risk with the empirical risk, compare kNN and linear regression, Implement forward stepwise regression 
 - Homework 2: <a href="homeworks/HW2-soln.ipynb">solutions</a>
+Analysis different linear regresion like ridge, lasso, logistic
 - Homework 3: <a href="homeworks/HW3.ipynb">solutions</a>
+Analysis loss function of different large margin classification, compare logistic regression, LDA,SVM, with ROC PR curve
 - Homework 4: <a href="homeworks/HW4.ipynb">solutions</a>
+Analysis different cross validation methods, perform tree base methods
 - Homework 5: <a href="homeworks/HW5.ipynb">solutions</a>
-
+erform random forest, SVM, Adaboost and Neuro Network
 
 <h2>Syllabus</h2>
 
